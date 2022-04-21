@@ -1,0 +1,4 @@
+﻿  eliminateAlgo.cpp
+C:\Users\niklo\OneDrive\Desktop\CPP-Workspace\HWsLevel3Baruch\exercise2_3_7\eliminateAlgo.cpp(20,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\niklo\OneDrive\Desktop\CPP-Workspace\HWsLevel3Baruch\exercise2_3_7\eliminateAlgo.cpp(23,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  multipleDimVector.vcxproj -> C:\Users\niklo\OneDrive\Desktop\CPP-Workspace\HWsLevel3Baruch\multipleDimVector\x64\Debug\multipleDimVector.exe
